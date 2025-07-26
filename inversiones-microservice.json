@@ -1,0 +1,8 @@
+{
+
+  "spring.application.name": "inversiones-microservice",
+  "spring.data.mongodb.uri": "mongodb://localhost:27017/Inversiones_db",
+  "server.port": 0,
+  "eureka.client.service-url.defaultZone": "http://localhost:8763/eureka",
+  "management.endpoints.web.exposure.include": "*"
+}
